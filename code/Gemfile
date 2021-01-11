@@ -2,7 +2,7 @@
 
 source "https://rubygems.org"
 
-repo_name = "Brightcoders-Bootcamps/kata-04-the-bowling-game-team03-kata04-1.git"
+repo_name = "Brightcoders-Bootcamps/kata-05-secret-handshake-ramasoftdev.git"
 
 git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
 
