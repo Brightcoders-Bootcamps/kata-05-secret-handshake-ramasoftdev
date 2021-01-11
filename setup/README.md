@@ -9,6 +9,9 @@ Para las evaluaciones con Rubycritic
 1. Acceder al directorio /code
 2. Ejecutar el comando rubycritic
 
+Para las evaluaciones con SandiMeter
+1. Acceder al directorio /code
+2. Ejecutar el comando sandi_meter -g
 
 Para ejecutar las pruebas (Realizadas con RSpec)
 1. Acceder al directorio /code
